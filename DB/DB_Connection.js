@@ -7,7 +7,7 @@ const DB_URL = process.env.DB_URL
 let database;
 
 async function getDatabase(){
-    
+    console.log(DB_URL);
     try{
         const client = await MongoClient.connect(DB_URL);
         database = client.db("Portfolio")
