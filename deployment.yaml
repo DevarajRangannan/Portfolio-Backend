@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: portfolio-backend
-        image: devarangan/portfolio-backend
+        image: devarangan/nodejs
         envFrom:
         - secretRef:
             name: my-secret
