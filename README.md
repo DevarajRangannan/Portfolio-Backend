@@ -2,7 +2,7 @@
   This Portfolio-Backend Web Server Purely Developded With `Nodejs`.
 
 ## License:
-  Allways welcomes who wants to coloborate with this repository to make perfect. Any one can use this repository to build custome porfolio application with thier creative ideas and the procedure given below.
+  Allways welcomes who wants to coloborate with this repository to make perfect. Any one can use this repository to build custome porfolio-Backtend application with thier creative ideas and the procedure given below.
 
 ### Procedures:
   * clone a repository using https://github.com/DevarajRangannan/Portfolio-Backend.git URL to locally.
