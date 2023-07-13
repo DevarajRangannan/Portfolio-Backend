@@ -14,6 +14,8 @@ async function getDatabase(){
         if(!database)
             console.log("Database not connected");
 
+        console.log("Database successfully connected");
+
         return database;
     }
     catch(e){
